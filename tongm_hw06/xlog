@@ -1,0 +1,1631 @@
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Mon Oct 21 23:27:06 2013
+TIME beginning             0.00 u         0.00 s
+TIME beginning             0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Main: Beginning execution
+Main: infile  'x01.txt'
+Main: outfile 'xout'
+Main: logfile 'xlog'
+DoTheWork: enter doTheWork
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+DoTheWork: enter addSquare 0
+DoTheWork: enter addSquare 1
+DoTheWork: enter addSquare 2
+DoTheWork: enter addSquare 3
+DoTheWork: enter addSquare 4
+DoTheWork: enter addSquare 5
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 5
+DoTheWork: enter addSquare 6
+DoTheWork: enter addSquare 7
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: enter addSquare 11
+DoTheWork: enter addSquare 12
+DoTheWork: enter addSquare 13
+DoTheWork: enter addSquare 14
+DoTheWork: enter addSquare 15
+DoTheWork: enter addSquare 16
+DoTheWork: enter addSquare 17
+DoTheWork: enter addSquare 18
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: enter addSquare 48
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 47
+DoTheWork: enter addSquare 48
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 47
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 46
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 46
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 40
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 15
+DoTheWork: enter addSquare 16
+DoTheWork: enter addSquare 17
+DoTheWork: enter addSquare 18
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 12
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 7
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: enter addSquare 11
+DoTheWork: enter addSquare 12
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 12
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: enter addSquare 11
+DoTheWork: enter addSquare 12
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 12
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 4
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 3
+DoTheWork: enter addSquare 4
+DoTheWork: enter addSquare 5
+DoTheWork: enter addSquare 6
+DoTheWork: enter addSquare 7
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: enter addSquare 11
+DoTheWork: enter addSquare 12
+DoTheWork: enter addSquare 13
+DoTheWork: enter addSquare 14
+DoTheWork: enter addSquare 15
+DoTheWork: enter addSquare 16
+DoTheWork: enter addSquare 17
+DoTheWork: enter addSquare 18
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 18
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 20
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 17
+DoTheWork: enter addSquare 18
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 20
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 15
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 11
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 7
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: enter addSquare 11
+DoTheWork: enter addSquare 12
+DoTheWork: enter addSquare 13
+DoTheWork: enter addSquare 14
+DoTheWork: enter addSquare 15
+DoTheWork: enter addSquare 16
+DoTheWork: enter addSquare 17
+DoTheWork: enter addSquare 18
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 18
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: enter addSquare 32
+DoTheWork: enter addSquare 33
+DoTheWork: enter addSquare 34
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 34
+DoTheWork: enter addSquare 35
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 43
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 36
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 39
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 37
+DoTheWork: enter addSquare 38
+DoTheWork: enter addSquare 39
+DoTheWork: enter addSquare 40
+DoTheWork: enter addSquare 41
+DoTheWork: enter addSquare 42
+DoTheWork: enter addSquare 43
+DoTheWork: enter addSquare 44
+DoTheWork: enter addSquare 45
+DoTheWork: enter addSquare 46
+DoTheWork: enter addSquare 47
+DoTheWork: enter addSquare 48
+DoTheWork: enter addSquare 49
+DoTheWork: enter addSquare 50
+DoTheWork: enter addSquare 51
+DoTheWork: enter addSquare 52
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave doTheWork
+Main: Ending execution
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Mon Oct 21 23:27:06 2013
+TIME ending                0.12 u         0.14 s
+TIME ending                0.12 u_t       0.14 s_t
+TIME***********************************************************************
+
+

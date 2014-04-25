@@ -1,0 +1,21 @@
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Mon Nov  4 12:51:37 2013
+TIME beginning             0.00 u         0.00 s
+TIME beginning             0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Main: Beginning execution
+Main: infile  'z01.txt'
+Main: outfile 'zzout.txt'
+Main: logfile 'zlog.txt'
+Main: Ending execution
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Mon Nov  4 12:51:37 2013
+TIME ending                0.01 u         0.02 s
+TIME ending                0.01 u_t       0.02 s_t
+TIME***********************************************************************
+
+

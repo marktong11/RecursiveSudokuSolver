@@ -1,0 +1,156 @@
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Mon Oct 21 23:27:13 2013
+TIME beginning             0.00 u         0.00 s
+TIME beginning             0.00 u_t       0.00 s_t
+TIME***********************************************************************
+
+
+Main: Beginning execution
+Main: infile  'z01.txt'
+Main: outfile 'zout'
+Main: logfile 'zlog'
+DoTheWork: enter doTheWork
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+Board: illegal value value -1
+DoTheWork: enter addSquare 0
+DoTheWork: enter addSquare 1
+DoTheWork: enter addSquare 2
+DoTheWork: enter addSquare 3
+DoTheWork: enter addSquare 4
+DoTheWork: enter addSquare 5
+DoTheWork: enter addSquare 6
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 6
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 4
+DoTheWork: enter addSquare 5
+DoTheWork: enter addSquare 6
+DoTheWork: enter addSquare 7
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 5
+DoTheWork: enter addSquare 6
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 1
+DoTheWork: enter addSquare 2
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 2
+DoTheWork: enter addSquare 3
+DoTheWork: enter addSquare 4
+DoTheWork: enter addSquare 5
+DoTheWork: enter addSquare 6
+DoTheWork: enter addSquare 7
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 6
+DoTheWork: enter addSquare 7
+DoTheWork: enter addSquare 8
+DoTheWork: enter addSquare 9
+DoTheWork: enter addSquare 10
+DoTheWork: enter addSquare 11
+DoTheWork: enter addSquare 12
+DoTheWork: enter addSquare 13
+DoTheWork: enter addSquare 14
+DoTheWork: enter addSquare 15
+DoTheWork: enter addSquare 16
+DoTheWork: leave addSquare, return false
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 15
+DoTheWork: enter addSquare 16
+DoTheWork: enter addSquare 17
+DoTheWork: enter addSquare 18
+DoTheWork: enter addSquare 19
+DoTheWork: leave addSquare, return false
+DoTheWork: enter addSquare 19
+DoTheWork: enter addSquare 20
+DoTheWork: enter addSquare 21
+DoTheWork: enter addSquare 22
+DoTheWork: enter addSquare 23
+DoTheWork: enter addSquare 24
+DoTheWork: enter addSquare 25
+DoTheWork: enter addSquare 26
+DoTheWork: enter addSquare 27
+DoTheWork: enter addSquare 28
+DoTheWork: enter addSquare 29
+DoTheWork: enter addSquare 30
+DoTheWork: enter addSquare 31
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave addSquare, return true
+DoTheWork: leave doTheWork
+Main: Ending execution
+
+TIME***********************************************************************
+TIME CPU percent    0.00   0.00                    Mon Oct 21 23:27:13 2013
+TIME ending                0.01 u         0.01 s
+TIME ending                0.01 u_t       0.01 s_t
+TIME***********************************************************************
+
+
